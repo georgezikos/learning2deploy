@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/learning2deploy/static/css/main.d1b05096.chunk.css",
+    "main.js": "/learning2deploy/static/js/main.a0f743a3.chunk.js",
+    "main.js.map": "/learning2deploy/static/js/main.a0f743a3.chunk.js.map",
+    "runtime-main.js": "/learning2deploy/static/js/runtime-main.2715b374.js",
+    "runtime-main.js.map": "/learning2deploy/static/js/runtime-main.2715b374.js.map",
+    "static/js/2.2bf54af1.chunk.js": "/learning2deploy/static/js/2.2bf54af1.chunk.js",
+    "static/js/2.2bf54af1.chunk.js.map": "/learning2deploy/static/js/2.2bf54af1.chunk.js.map",
+    "index.html": "/learning2deploy/index.html",
+    "precache-manifest.f0d5d3709fbf11e46207770e0fd6045d.js": "/learning2deploy/precache-manifest.f0d5d3709fbf11e46207770e0fd6045d.js",
+    "service-worker.js": "/learning2deploy/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/learning2deploy/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.2bf54af1.chunk.js.LICENSE.txt": "/learning2deploy/static/js/2.2bf54af1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/learning2deploy/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2715b374.js",
+    "static/js/2.2bf54af1.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.a0f743a3.chunk.js"
+  ]
+}
